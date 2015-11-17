@@ -12,6 +12,8 @@
         Console.WriteLine("Bye!")
         Console.WriteLine("Bye Bye!")
 
+        Console.WriteLine("Later!")
+
     End Sub
 
 End Module
