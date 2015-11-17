@@ -10,6 +10,7 @@
         Loop
 
         Console.WriteLine("Bye!")
+        console.writeline("Byee")
 
     End Sub
 
