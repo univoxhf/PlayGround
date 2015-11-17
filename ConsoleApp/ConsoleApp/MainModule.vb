@@ -9,6 +9,8 @@
             data = Console.ReadLine
         Loop
 
+        Console.WriteLine("Bye!")
+
     End Sub
 
 End Module
